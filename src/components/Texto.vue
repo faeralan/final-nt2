@@ -83,7 +83,7 @@
         preguntas: [
           {pregunta: 1, respuestas: ['b']},
           {pregunta: 2, respuestas: ['c']},
-          {pregunta: 3, respuestas: ['a','b']},
+          {pregunta: 3, respuestas: ['b']},
           {pregunta: 4, respuestas: ['c','d']},
           {pregunta: 5, respuestas: ['a','d']}
         ]
